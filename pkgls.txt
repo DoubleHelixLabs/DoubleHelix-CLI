@@ -1,3 +1,3 @@
-testpkg
+testpkg  https://raw.githubusercontent.com/DoubleHelixLabs/DoubleHelix-CLI/refs/heads/main/pkgid1.py
 
-say
+say  https://raw.githubusercontent.com/DoubleHelixLabs/DoubleHelix-CLI/refs/heads/main/pkgid2.py
